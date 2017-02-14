@@ -1,4 +1,4 @@
-<img alt="" style="border-width:0" src="https://www.dropbox.com/s/b8ls807rceiuqr1/cr-banner.png?raw=1">
+<img alt="" style="border-width:0" src="https://www.dropbox.com/s/35dv57xst731uh3/cr-banner.png?raw=1">
 # Astropartículas en LAGO
 ## Curso especial dictado por la Colaboración [LAGO](http://lagoproject.org).
 ### (C) 2012, 2013, 2014, 2017 - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
@@ -11,7 +11,7 @@ Astropartículas. Mecanismos de producción. Posibles fuentes de astropartícula
 
 ### Unidad 2: Lluvias Atmosféricas Extendidas (EAS).
 Introducción a interacción de la radiación con la materia. La atmósfera de la Tierra. Modelos de desarrollo de una EAS. Principales características de las EAS iniciadas por fotones, protones y núcleos pesados. Partículas secundarias y su distribución longitudinal y transversal. Principales observables de las EAS.
-**Laboratorio virtual unidad 2**: Simulación de una * *EAS* * en `CORSIKA`
+**Laboratorio virtual unidad 2**: Simulación de una EAS en `CORSIKA`
 
 ### Unidad 3: Técnicas de detección de Astropartículas.
 Introducción a técnicas de detección de partículas. Técnicas de detección directa: globos y satélites. Principales observatorios de detección directa. Técnicas de detección indirecta: muestreo longitudinal, lateral y técnica de partícula solitaria. Principales detectores de astropartículas: telescopios de fluorescencia; telescopios Cherenkov; detectores Cherenkov en agua; detección por radio; centelladores; cámaras de placas resistivas; otros detectores.
