@@ -6,7 +6,7 @@
 El curso contempla clases teóricas y talleres prácticos donde se cubrirán aspectos generales de la física de Rayos Cósmicos, con un fuerte énfasis en temas de interés de LAGO, y está destinada a estudiantes de avanzados de Física, Maestría o Doctorado en Física o Astrofísica. Se recomienda conocer técnicas básicas de programación (cualquier lenguaje) y tener un manejo confortable del sistema operativo Linux.
 
 ## Programa
-### Unidad 1: Fenomenología de Astropartículas.
+### [Unidad 1: Fenomenología de Astropartículas](clases/AP_LAGO_U01.odp).
 Astropartículas. Mecanismos de producción. Posibles fuentes de astropartículas. Propagación de rayos cósmicos en el medio intergaláctico e interestelar y sus consecuencias observacionales. Heliósfera y magnetósfera.
 
 ### Unidad 2: Lluvias Atmosféricas Extendidas (EAS).
